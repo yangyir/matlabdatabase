@@ -1,0 +1,23 @@
+code_ctp	SR801P5900
+code_wind	SR801P5900.CZC
+code_bbg	CBF8P 5900 Comdty
+code_ctp_underlier	SR801
+code_wind_underlier	SR801.CZC
+code_bbg_underlier	CBF8 Comdty
+opt_american	1
+opt_type	P
+opt_strike	5900
+opt_expiry_date1	737023
+opt_expiry_date2	2017-11-24
+contract_size	10
+tick_size	0.5
+tick_value	5
+asset_name	sugar
+exchange	.CZC
+first_trade_date1	736526
+first_trade_date2	2016-07-15
+last_trade_date1	737023
+last_trade_date2	2017-11-24
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
