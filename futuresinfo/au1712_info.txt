@@ -1,0 +1,22 @@
+code_ctp	au1712
+code_wind	AU1712.SHF
+code_bbg	AUAZ7 Comdty
+contract_size	1000
+tick_size	0.05
+tick_value	50
+asset_name	gold
+exchange	.SHF
+first_trade_date1	736650
+first_trade_date2	2016-11-16
+last_trade_date1	737044
+last_trade_date2	2017-12-15
+first_notice_date1	737044
+first_notice_date2	2017-12-15
+first_dlv_date1	737047
+first_dlv_date2	2017-12-18
+last_dlv_date1	737051
+last_dlv_date2	2017-12-22
+trading_hours	09:00-11:30;13:30-15:00;21:00-02:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.06

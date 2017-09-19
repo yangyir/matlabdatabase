@@ -1,1 +1,0 @@
-datetime	open	high	low	close
