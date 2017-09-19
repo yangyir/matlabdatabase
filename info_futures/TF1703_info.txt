@@ -1,0 +1,22 @@
+code_ctp	TF1703
+code_wind	TF1703.CFE
+code_bbg	TFCH7 Comdty
+contract_size	1000000
+tick_size	0.005
+tick_value	50
+asset_name	govtbond_5y
+exchange	.CFE
+first_trade_date1	736495
+first_trade_date2	2016-06-14
+last_trade_date1	736764
+last_trade_date2	2017-03-10
+first_notice_date1	736755
+first_notice_date2	2017-03-01
+first_dlv_date1	736760
+first_dlv_date2	2017-03-06
+last_dlv_date1	736769
+last_dlv_date2	2017-03-15
+trading_hours	09:15-11:30;13:00-15:15
+trading_break	
+holidays	shanghai
+init_margin_rate	
