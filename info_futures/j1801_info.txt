@@ -1,0 +1,22 @@
+code_ctp	j1801
+code_wind	J1801.DCE
+code_bbg	KEEF8 Comdty
+contract_size	100
+tick_size	0.5
+tick_value	50
+asset_name	coke
+exchange	.DCE
+first_trade_date1	736712
+first_trade_date2	2017-01-17
+last_trade_date1	737075
+last_trade_date2	2018-01-15
+first_notice_date1	737075
+first_notice_date2	2018-01-15
+first_dlv_date1	737078
+first_dlv_date2	2018-01-18
+last_dlv_date1	737078
+last_dlv_date2	2018-01-18
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.15
