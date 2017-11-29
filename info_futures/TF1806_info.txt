@@ -1,0 +1,22 @@
+code_ctp	TF1806
+code_wind	TF1806.CFE
+code_bbg	TFCM8 Comdty
+contract_size	1000000
+tick_size	0.005
+tick_value	50
+asset_name	govtbond_5y
+exchange	.CFE
+first_trade_date1	736949
+first_trade_date2	2017-09-11
+last_trade_date1	737219
+last_trade_date2	2018-06-08
+first_notice_date1	737212
+first_notice_date2	2018-06-01
+first_dlv_date1	737217
+first_dlv_date2	2018-06-06
+last_dlv_date1	737224
+last_dlv_date2	2018-06-13
+trading_hours	09:15-11:30;13:00-15:15
+trading_break	
+holidays	shanghai
+init_margin_rate	0.011978

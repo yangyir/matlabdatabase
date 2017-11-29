@@ -1,0 +1,22 @@
+code_ctp	zn1806
+code_wind	ZN1806.SHF
+code_bbg	ZNAM8 Comdty
+contract_size	5
+tick_size	5
+tick_value	25
+asset_name	zinc
+exchange	.SHF
+first_trade_date1	736862
+first_trade_date2	2017-06-16
+last_trade_date1	737226
+last_trade_date2	2018-06-15
+first_notice_date1	737226
+first_notice_date2	2018-06-15
+first_dlv_date1	737230
+first_dlv_date2	2018-06-19
+last_dlv_date1	737236
+last_dlv_date2	2018-06-25
+trading_hours	09:00-11:30;13:30-15:00;21:00-01:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.059976
