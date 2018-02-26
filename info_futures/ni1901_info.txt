@@ -1,0 +1,22 @@
+code_ctp	ni1901
+code_wind	NI1901.SHF
+code_bbg	XIIF9 Comdty
+contract_size	1
+tick_size	10
+tick_value	10
+asset_name	nickel
+exchange	.SHF
+first_trade_date1	737076
+first_trade_date2	2018-01-16
+last_trade_date1	737440
+last_trade_date2	2019-01-15
+first_notice_date1	737440
+first_notice_date2	2019-01-15
+first_dlv_date1	737441
+first_dlv_date2	2019-01-16
+last_dlv_date1	737447
+last_dlv_date2	2019-01-22
+trading_hours	09:00-11:30;13:30-15:00;21:00-01:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.079649

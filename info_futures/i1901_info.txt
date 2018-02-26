@@ -1,0 +1,22 @@
+code_ctp	i1901
+code_wind	I1901.DCE
+code_bbg	IOEF9 Comdty
+contract_size	100
+tick_size	0.5
+tick_value	50
+asset_name	iron ore
+exchange	.DCE
+first_trade_date1	737076
+first_trade_date2	2018-01-16
+last_trade_date1	737440
+last_trade_date2	2019-01-15
+first_notice_date1	737440
+first_notice_date2	2019-01-15
+first_dlv_date1	737443
+first_dlv_date2	2019-01-18
+last_dlv_date1	737443
+last_dlv_date2	2019-01-18
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.1
