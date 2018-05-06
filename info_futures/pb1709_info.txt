@@ -1,6 +1,6 @@
 code_ctp	pb1709
 code_wind	PB1709.SHF
-code_bbg	PBLU7 Comdty
+code_bbg	PBLU17 Comdty
 contract_size	5
 tick_size	5
 tick_value	25
@@ -19,4 +19,4 @@ last_dlv_date2	2017-09-22
 trading_hours	09:00-11:30;13:30-15:00;21:00-01:00
 trading_break	10:15-10:30
 holidays	shanghai
-init_margin_rate	0.049324
+init_margin_rate	
