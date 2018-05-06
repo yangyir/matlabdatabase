@@ -1,0 +1,22 @@
+code_ctp	m1901
+code_wind	M1901.DCE
+code_bbg	AEF9 Comdty
+contract_size	10
+tick_size	1
+tick_value	10
+asset_name	soymeal
+exchange	.DCE
+first_trade_date1	737076
+first_trade_date2	2018-01-16
+last_trade_date1	737440
+last_trade_date2	2019-01-15
+first_notice_date1	737440
+first_notice_date2	2019-01-15
+first_dlv_date1	737446
+first_dlv_date2	2019-01-21
+last_dlv_date1	737446
+last_dlv_date2	2019-01-21
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.070152
