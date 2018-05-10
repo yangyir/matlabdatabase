@@ -1,0 +1,22 @@
+code_ctp	al1810
+code_wind	AL1810.SHF
+code_bbg	AAV8 Comdty
+contract_size	5
+tick_size	5
+tick_value	25
+asset_name	aluminum
+exchange	.SHF
+first_trade_date1	736985
+first_trade_date2	2017-10-17
+last_trade_date1	737348
+last_trade_date2	2018-10-15
+first_notice_date1	737348
+first_notice_date2	2018-10-15
+first_dlv_date1	737349
+first_dlv_date2	2018-10-16
+last_dlv_date1	737355
+last_dlv_date2	2018-10-22
+trading_hours	09:00-11:30;13:30-15:00;21:00-01:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.05
