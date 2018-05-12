@@ -7,8 +7,8 @@ code_bbg_underlier	AEK8 Comdty
 opt_american	1
 opt_type	P
 opt_strike	2900
-opt_expiry_date1	737156
-opt_expiry_date2	2018-04-06
+opt_expiry_date1	737160
+opt_expiry_date2	2018-04-10
 contract_size	10
 tick_size	0.5
 tick_value	5

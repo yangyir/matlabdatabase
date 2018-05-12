@@ -1,0 +1,22 @@
+code_ctp	a1901
+code_wind	A1901.DCE
+code_bbg	AKF9 Comdty
+contract_size	10
+tick_size	1
+tick_value	10
+asset_name	soybean
+exchange	.DCE
+first_trade_date1	736893
+first_trade_date2	2017-07-17
+last_trade_date1	737440
+last_trade_date2	2019-01-15
+first_notice_date1	737440
+first_notice_date2	2019-01-15
+first_dlv_date1	737449
+first_dlv_date2	2019-01-24
+last_dlv_date1	737449
+last_dlv_date2	2019-01-24
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.07
