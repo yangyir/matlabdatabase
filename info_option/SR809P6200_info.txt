@@ -16,8 +16,8 @@ asset_name	sugar
 exchange	.CZC
 first_trade_date1	736769
 first_trade_date2	2017-03-15
-last_trade_date1	737265
-last_trade_date2	2018-07-24
+last_trade_date1	737266
+last_trade_date2	2018-07-25
 trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
 trading_break	10:15-10:30
 holidays	shanghai
