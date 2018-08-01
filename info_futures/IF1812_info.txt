@@ -19,4 +19,4 @@ last_dlv_date2	2018-12-21
 trading_hours	09:30-11:30;13:00-15:00
 trading_break	
 holidays	shanghai
-init_margin_rate	0.20076
+init_margin_rate	0.19983

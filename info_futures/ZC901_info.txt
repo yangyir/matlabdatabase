@@ -1,0 +1,22 @@
+code_ctp	ZC901
+code_wind	ZC901.CZC
+code_bbg	TRCF9 Comdty
+contract_size	100
+tick_size	0.2
+tick_value	20
+asset_name	thermal coal
+exchange	.CZC
+first_trade_date1	737069
+first_trade_date2	2018-01-09
+last_trade_date1	737433
+last_trade_date2	2019-01-08
+first_notice_date1	737433
+first_notice_date2	2019-01-08
+first_dlv_date1	737435
+first_dlv_date2	2019-01-10
+last_dlv_date1	737435
+last_dlv_date2	2019-01-10
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.08

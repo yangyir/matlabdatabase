@@ -1,0 +1,22 @@
+code_ctp	T1903
+code_wind	T1903.CFE
+code_bbg	TFTH9 Comdty
+contract_size	1000000
+tick_size	0.005
+tick_value	50
+asset_name	govtbond_10y
+exchange	.CFE
+first_trade_date1	737222
+first_trade_date2	2018-06-11
+last_trade_date1	737492
+last_trade_date2	2019-03-08
+first_notice_date1	737485
+first_notice_date2	2019-03-01
+first_dlv_date1	737490
+first_dlv_date2	2019-03-06
+last_dlv_date1	737497
+last_dlv_date2	2019-03-13
+trading_hours	09:15-11:30;13:00-15:15
+trading_break	
+holidays	shanghai
+init_margin_rate	0.020061
