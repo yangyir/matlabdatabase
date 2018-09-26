@@ -1,0 +1,23 @@
+code_ctp	pb1903
+code_wind	PB1903.SHF
+code_bbg	PBLH9 Comdty
+code_H5	pb1903
+contract_size	5
+tick_size	5
+tick_value	25
+asset_name	lead
+exchange	.SHF
+first_trade_date1	737135
+first_trade_date2	2018-03-16
+last_trade_date1	737499
+last_trade_date2	2019-03-15
+first_notice_date1	737499
+first_notice_date2	2019-03-15
+first_dlv_date1	737502
+first_dlv_date2	2019-03-18
+last_dlv_date1	737506
+last_dlv_date2	2019-03-22
+trading_hours	09:00-11:30;13:30-15:00;21:00-01:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.08

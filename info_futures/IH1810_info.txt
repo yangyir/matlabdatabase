@@ -1,0 +1,23 @@
+code_ctp	IH1810
+code_wind	IH1810.CFE
+code_bbg	FFBV8 Comdty
+code_H5	IH1810
+contract_size	300
+tick_size	0.2
+tick_value	60
+asset_name	eqindex_50
+exchange	.CFE
+first_trade_date1	737292
+first_trade_date2	2018-08-20
+last_trade_date1	737352
+last_trade_date2	2018-10-19
+first_notice_date1	737352
+first_notice_date2	2018-10-19
+first_dlv_date1	737352
+first_dlv_date2	2018-10-19
+last_dlv_date1	737352
+last_dlv_date2	2018-10-19
+trading_hours	09:30-11:30;13:00-15:00
+trading_break	
+holidays	shanghai
+init_margin_rate	0.19986
