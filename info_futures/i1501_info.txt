@@ -1,0 +1,23 @@
+code_ctp	i1501
+code_wind	I1501.DCE
+code_bbg	IOEF15 Comdty
+code_H5	i1501
+contract_size	100
+tick_size	1
+tick_value	100
+asset_name	iron ore
+exchange	.DCE
+first_trade_date1	735588
+first_trade_date2	2013-12-20
+last_trade_date1	735978
+last_trade_date2	2015-01-14
+first_notice_date1	735978
+first_notice_date2	2015-01-14
+first_dlv_date1	735983
+first_dlv_date2	2015-01-19
+last_dlv_date1	735983
+last_dlv_date2	2015-01-19
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	

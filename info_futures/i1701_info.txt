@@ -1,0 +1,23 @@
+code_ctp	i1701
+code_wind	I1701.DCE
+code_bbg	IOEF17 Comdty
+code_H5	i1701
+contract_size	100
+tick_size	0.5
+tick_value	50
+asset_name	iron ore
+exchange	.DCE
+first_trade_date1	736347
+first_trade_date2	2016-01-18
+last_trade_date1	736711
+last_trade_date2	2017-01-16
+first_notice_date1	736711
+first_notice_date2	2017-01-16
+first_dlv_date1	736714
+first_dlv_date2	2017-01-19
+last_dlv_date1	736714
+last_dlv_date2	2017-01-19
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	

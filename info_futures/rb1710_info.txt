@@ -1,0 +1,23 @@
+code_ctp	rb1710
+code_wind	RB1710.SHF
+code_bbg	RBTV17 Comdty
+code_H5	rb1710
+contract_size	10
+tick_size	1
+tick_value	10
+asset_name	deformed bar
+exchange	.SHF
+first_trade_date1	736621
+first_trade_date2	2016-10-18
+last_trade_date1	736984
+last_trade_date2	2017-10-16
+first_notice_date1	736984
+first_notice_date2	2017-10-16
+first_dlv_date1	736985
+first_dlv_date2	2017-10-17
+last_dlv_date1	736991
+last_dlv_date2	2017-10-23
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	

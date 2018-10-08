@@ -1,0 +1,23 @@
+code_ctp	rb1505
+code_wind	RB1505.SHF
+code_bbg	RBTK15 Comdty
+code_H5	rb1505
+contract_size	10
+tick_size	1
+tick_value	10
+asset_name	deformed bar
+exchange	.SHF
+first_trade_date1	735735
+first_trade_date2	2014-05-16
+last_trade_date1	736099
+last_trade_date2	2015-05-15
+first_notice_date1	736099
+first_notice_date2	2015-05-15
+first_dlv_date1	736102
+first_dlv_date2	2015-05-18
+last_dlv_date1	736106
+last_dlv_date2	2015-05-22
+trading_hours	09:00-11:30;13:30-15:00;21:00-01:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	

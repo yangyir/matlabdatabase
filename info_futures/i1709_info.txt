@@ -1,0 +1,23 @@
+code_ctp	i1709
+code_wind	I1709.DCE
+code_bbg	IOEU17 Comdty
+code_H5	i1709
+contract_size	100
+tick_size	0.5
+tick_value	50
+asset_name	iron ore
+exchange	.DCE
+first_trade_date1	736592
+first_trade_date2	2016-09-19
+last_trade_date1	736952
+last_trade_date2	2017-09-14
+first_notice_date1	736952
+first_notice_date2	2017-09-14
+first_dlv_date1	736957
+first_dlv_date2	2017-09-19
+last_dlv_date1	736957
+last_dlv_date2	2017-09-19
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	
