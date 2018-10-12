@@ -1,0 +1,24 @@
+code_ctp	m1901-P-3750
+code_wind	M1901-P-3750.DCE
+code_bbg	AEF9P 3750 Comdty
+code_H5	m1901-P-3750
+code_ctp_underlier	m1901
+code_wind_underlier	M1901.DCE
+code_bbg_underlier	AEF9 Comdty
+opt_american	1
+opt_type	P
+opt_strike	3750
+opt_expiry_date1	737401
+opt_expiry_date2	2018-12-07
+contract_size	10
+tick_size	0.5
+tick_value	5
+asset_name	soymeal
+exchange	.DCE
+first_trade_date1	737076
+first_trade_date2	2018-01-16
+last_trade_date1	737401
+last_trade_date2	2018-12-07
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai

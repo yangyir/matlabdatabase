@@ -1,0 +1,23 @@
+code_ctp	FG901
+code_wind	FG901.CZC
+code_bbg	FGLF9 Comdty
+code_H5	FG901
+contract_size	20
+tick_size	1
+tick_value	20
+asset_name	glass
+exchange	.CZC
+first_trade_date1	737076
+first_trade_date2	2018-01-16
+last_trade_date1	737440
+last_trade_date2	2019-01-15
+first_notice_date1	737440
+first_notice_date2	2019-01-15
+first_dlv_date1	737442
+first_dlv_date2	2019-01-17
+last_dlv_date1	737442
+last_dlv_date2	2019-01-17
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.07

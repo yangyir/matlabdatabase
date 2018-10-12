@@ -1,0 +1,23 @@
+code_ctp	pp1905
+code_wind	PP1905.DCE
+code_bbg	PYLK9 Comdty
+code_H5	pp1905
+contract_size	5
+tick_size	1
+tick_value	5
+asset_name	pp
+exchange	.DCE
+first_trade_date1	737195
+first_trade_date2	2018-05-15
+last_trade_date1	737560
+last_trade_date2	2019-05-15
+first_notice_date1	737560
+first_notice_date2	2019-05-15
+first_dlv_date1	737565
+first_dlv_date2	2019-05-20
+last_dlv_date1	737565
+last_dlv_date2	2019-05-20
+trading_hours	09:00-11:30;13:30-15:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.069929

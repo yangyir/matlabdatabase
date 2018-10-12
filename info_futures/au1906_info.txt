@@ -1,0 +1,23 @@
+code_ctp	au1906
+code_wind	AU1906.SHF
+code_bbg	AUAM9 Comdty
+code_H5	au1906
+contract_size	1000
+tick_size	0.05
+tick_value	50
+asset_name	gold
+exchange	.SHF
+first_trade_date1	737196
+first_trade_date2	2018-05-16
+last_trade_date1	737593
+last_trade_date2	2019-06-17
+first_notice_date1	737593
+first_notice_date2	2019-06-17
+first_dlv_date1	737594
+first_dlv_date2	2019-06-18
+last_dlv_date1	737600
+last_dlv_date2	2019-06-24
+trading_hours	09:00-11:30;13:30-15:00;21:00-02:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.049872

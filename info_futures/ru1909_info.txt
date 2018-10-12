@@ -1,0 +1,23 @@
+code_ctp	ru1909
+code_wind	RU1909.SHF
+code_bbg	RTU9 Comdty
+code_H5	ru1909
+contract_size	10
+tick_size	5
+tick_value	50
+asset_name	rubber
+exchange	.SHF
+first_trade_date1	737321
+first_trade_date2	2018-09-18
+last_trade_date1	737684
+last_trade_date2	2019-09-16
+first_notice_date1	737684
+first_notice_date2	2019-09-16
+first_dlv_date1	737685
+first_dlv_date2	2019-09-17
+last_dlv_date1	737691
+last_dlv_date2	2019-09-23
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.09

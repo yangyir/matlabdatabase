@@ -1,0 +1,23 @@
+code_ctp	sc1907
+code_wind	SC1907.SHF
+code_bbg	SCPN9 Comdty
+code_H5	sc1907
+contract_size	1000
+tick_size	0.1
+tick_value	100
+asset_name	crude oil
+exchange	.SHF
+first_trade_date1	737243
+first_trade_date2	2018-07-02
+last_trade_date1	737604
+last_trade_date2	2019-06-28
+first_notice_date1	737604
+first_notice_date2	2019-06-28
+first_dlv_date1	737607
+first_dlv_date2	2019-07-01
+last_dlv_date1	737611
+last_dlv_date2	2019-07-05
+trading_hours	09:00-11:30;13:30-15:00;21:00-02:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	

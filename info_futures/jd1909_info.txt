@@ -1,0 +1,23 @@
+code_ctp	jd1909
+code_wind	JD1909.DCE
+code_bbg	DCEU9 Comdty
+code_H5	jd1909
+contract_size	5
+tick_size	1
+tick_value	10
+asset_name	egg
+exchange	.DCE
+first_trade_date1	737328
+first_trade_date2	2018-09-25
+last_trade_date1	737693
+last_trade_date2	2019-09-25
+first_notice_date1	737693
+first_notice_date2	2019-09-25
+first_dlv_date1	737698
+first_dlv_date2	2019-09-30
+last_dlv_date1	737698
+last_dlv_date2	2019-09-30
+trading_hours	09:00-11:30;13:30-15:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.15977

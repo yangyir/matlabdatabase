@@ -1,0 +1,23 @@
+code_ctp	ag1906
+code_wind	AG1906.SHF
+code_bbg	SAIM9 Comdty
+code_H5	ag1906
+contract_size	15
+tick_size	1
+tick_value	15
+asset_name	silver
+exchange	.SHF
+first_trade_date1	737230
+first_trade_date2	2018-06-19
+last_trade_date1	737593
+last_trade_date2	2019-06-17
+first_notice_date1	737593
+first_notice_date2	2019-06-17
+first_dlv_date1	737594
+first_dlv_date2	2019-06-18
+last_dlv_date1	737600
+last_dlv_date2	2019-06-24
+trading_hours	09:00-11:30;13:30-15:00;21:00-02:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.059949

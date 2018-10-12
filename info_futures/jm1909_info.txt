@@ -1,0 +1,23 @@
+code_ctp	jm1909
+code_wind	JM1909.DCE
+code_bbg	CKCU9 Comdty
+code_H5	jm1909
+contract_size	60
+tick_size	0.5
+tick_value	30
+asset_name	coking coal
+exchange	.DCE
+first_trade_date1	737317
+first_trade_date2	2018-09-14
+last_trade_date1	737684
+last_trade_date2	2019-09-16
+first_notice_date1	737684
+first_notice_date2	2019-09-16
+first_dlv_date1	737687
+first_dlv_date2	2019-09-19
+last_dlv_date1	737687
+last_dlv_date2	2019-09-19
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.12

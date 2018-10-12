@@ -1,0 +1,23 @@
+code_ctp	TA901
+code_wind	TA901.CZC
+code_bbg	PTF9 Comdty
+code_H5	TA901
+contract_size	5
+tick_size	2
+tick_value	10
+asset_name	pta
+exchange	.CZC
+first_trade_date1	737076
+first_trade_date2	2018-01-16
+last_trade_date1	737440
+last_trade_date2	2019-01-15
+first_notice_date1	737440
+first_notice_date2	2019-01-15
+first_dlv_date1	737442
+first_dlv_date2	2019-01-17
+last_dlv_date1	737442
+last_dlv_date2	2019-01-17
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.06

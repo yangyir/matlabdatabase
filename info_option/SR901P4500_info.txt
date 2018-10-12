@@ -1,0 +1,24 @@
+code_ctp	SR901P4500
+code_wind	SR901P4500.CZC
+code_bbg	CBF9P 4500 Comdty
+code_H5	SR901P4500
+code_ctp_underlier	SR901
+code_wind_underlier	SR901.CZC
+code_bbg_underlier	CBF9 Comdty
+opt_american	1
+opt_type	P
+opt_strike	4500
+opt_expiry_date1	737390
+opt_expiry_date2	2018-11-26
+contract_size	10
+tick_size	0.5
+tick_value	5
+asset_name	sugar
+exchange	.CZC
+first_trade_date1	736893
+first_trade_date2	2017-07-17
+last_trade_date1	737390
+last_trade_date2	2018-11-26
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:30
+trading_break	10:15-10:30
+holidays	shanghai

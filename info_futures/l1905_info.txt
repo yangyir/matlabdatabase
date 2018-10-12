@@ -1,0 +1,23 @@
+code_ctp	l1905
+code_wind	L1905.DCE
+code_bbg	POLK9 Comdty
+code_H5	l1905
+contract_size	5
+tick_size	5
+tick_value	25
+asset_name	lldpe
+exchange	.DCE
+first_trade_date1	737195
+first_trade_date2	2018-05-15
+last_trade_date1	737560
+last_trade_date2	2019-05-15
+first_notice_date1	737560
+first_notice_date2	2019-05-15
+first_dlv_date1	737562
+first_dlv_date2	2019-05-17
+last_dlv_date1	737562
+last_dlv_date2	2019-05-17
+trading_hours	09:00-11:30;13:30-15:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.070189
