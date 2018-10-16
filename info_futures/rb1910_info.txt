@@ -1,0 +1,23 @@
+code_ctp	rb1910
+code_wind	RB1910.SHF
+code_bbg	RBTV9 Comdty
+code_H5	rb1910
+contract_size	10
+tick_size	1
+tick_value	10
+asset_name	deformed bar
+exchange	.SHF
+first_trade_date1	737349
+first_trade_date2	2018-10-16
+last_trade_date1	737713
+last_trade_date2	2019-10-15
+first_notice_date1	737713
+first_notice_date2	2019-10-15
+first_dlv_date1	737714
+first_dlv_date2	2019-10-16
+last_dlv_date1	737720
+last_dlv_date2	2019-10-22
+trading_hours	09:00-11:30;13:30-15:00;21:00-23:00
+trading_break	10:15-10:30
+holidays	shanghai
+init_margin_rate	0.09
