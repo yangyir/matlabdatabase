@@ -1,2 +1,2 @@
 date	open	high	low	close
-737350.000000	NaN	NaN	NaN	568.300000
+737352.000000	NaN	NaN	NaN	567.400000

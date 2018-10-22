@@ -1,0 +1,23 @@
+code_ctp	IC1906
+code_wind	IC1906.CFE
+code_bbg	FFDM9 Comdty
+code_H5	IC1906
+contract_size	200
+tick_size	0.2
+tick_value	40
+asset_name	eqindex_500
+exchange	.CFE
+first_trade_date1	737355
+first_trade_date2	2018-10-22
+last_trade_date1	737597
+last_trade_date2	2019-06-21
+first_notice_date1	737597
+first_notice_date2	2019-06-21
+first_dlv_date1	737597
+first_dlv_date2	2019-06-21
+last_dlv_date1	737597
+last_dlv_date2	2019-06-21
+trading_hours	09:30-11:30;13:00-15:00
+trading_break	
+holidays	shanghai
+init_margin_rate	
